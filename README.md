@@ -44,4 +44,4 @@ Modificaciones: Cualquier cambio en el código fuente original es responsabilida
 🧠 Contexto Técnico
 En el análisis de amenazas, verificar la antigüedad de un dominio (vía WHOIS) es una técnica clave para detectar posibles servidores de Comando y Control (C2). Muchos ataques de Tunelización DNS (utilizando herramientas especializadas como Iodine o DNScat2) suelen emplear dominios registrados recientemente para evadir filtros de seguridad basados en reputación.
 
-Desarrollado con fines académicos por Miguel Ángel (@mrvcode) | 2025 Basado en librerías Open Source: CustomTkinter, python-whois y requests.
+Desarrollado con fines académicos por @mrvcode | 2025 Basado en librerías Open Source: CustomTkinter, python-whois y requests.
